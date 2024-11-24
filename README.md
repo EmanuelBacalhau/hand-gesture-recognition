@@ -73,7 +73,7 @@ cd hand-gesture-recognition
 - index.html: Página principal com o layout da aplicação.
 - src/scripts/index.js: Lógica principal de reconhecimento de gestos.
 - src/scripts/gestures.js: Definição dos gestos e regras específicas para cada um.
-- src/styles/styles.css: Estilização da interface.
+- src/styles/main.css: Estilização da interface.
 
 ### **Crie seus próprios gestos**
 
