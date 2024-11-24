@@ -147,7 +147,7 @@ const gestures = [
 ]
 ```
 
-5. Navegue até o arquivo [gesture.js](src/scripts/index.js) e adicione seu gesto
+5. Navegue até o arquivo [index.js](src/scripts/index.js) e adicione seu gesto
 
 ```
 const gestureStrings = {
