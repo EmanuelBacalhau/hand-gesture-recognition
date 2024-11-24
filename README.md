@@ -43,10 +43,12 @@ Este projeto implementa um sistema de reconhecimento de gestos das mãos em temp
 ### **Passos para rodar o projeto localmente**
 
 1. Clone este repositório:
-   ```bash
-    git clone https://github.com/seu-usuario/hand-gesture-recognition.git
-    cd hand-gesture-recognition
-   ```
+
+```bash
+git clone https://github.com/seu-usuario/hand-gesture-recognition.git
+cd hand-gesture-recognition
+```
+
 2. Instalar dependências
 
 ```bash
